@@ -412,7 +412,7 @@ Data Professional | Data Analytics | Healthcare & Supply Chain Analytics
 * Data-Driven Decision Making
 
 ---
-
+Video linK to the project: https://drive.google.com/file/d/17pAEO5V-RGipmsHhHNG78oMQsCZLB8c7/view?usp=sharing
 ##  Repository Purpose
 
 This repository serves as a portfolio of my practical work during the Codveda Data Analytics Internship and demonstrates my progression from **data exploration and preparation to predictive modeling and business intelligence**.
